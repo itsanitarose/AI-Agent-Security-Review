@@ -2,7 +2,9 @@
 
 **Northwind Health | IAM: AI Agent Security Review**
 
-This map connects the IAM job requirements I'm researching to the skills demonstrated in my SupportBot case study.
+This map links IAM Analyst job requirements to the work completed in this case study.
+
+<BR>
 
 | Job Requirement | Evidence in This Project |
 |:----------------|:-------------------------|
