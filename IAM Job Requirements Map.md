@@ -1,6 +1,6 @@
 # IAM Skills Map
 
-**Northwind Health | IAM: AI Agent Security Review**
+**Northwind Health |  AI Agent Security Review**
 
 This map links IAM Analyst job requirements to the work completed in this case study.
 
