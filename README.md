@@ -1,5 +1,4 @@
-
-## AI Agent Security Review
+# AI Agent Security Review
 
 🎫 The Ticket
 
