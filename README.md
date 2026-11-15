@@ -134,20 +134,27 @@ The proposed controls are documented in [security controls & target state](Docum
 
 
 
-## What I'm Learning
+## Looking Back at the Review
 
-I've been interested in AI security for some time, and this case study confirmed that I want to explore securing AI agents further.
+This case helped me better understand the security risks of AI agents.
 
-I learned that managing an AI agent's identity involves more than reviewing permissions. I needed to understand how API tokens work, the difference between rotation and revocation, and why access restrictions must be enforced outside the agent.
+AI agents use identities and credentials that need security controls, just as human accounts do. Their access should be controlled, monitored and regularly reviewed.
 
-Investigating Tuesday's activity also taught me to distinguish suspicious behaviour from a confirmed breach, and to understand where my responsibilities as an IAM analyst end and the incident-response team's begin.
+Investigating Tuesday’s activity also taught me the difference between suspicious activity and a confirmed security incident. I identified warning signs and recommended immediate action, but further investigation would be needed to confirm what happened.
 
-The question about automated refunds pushed my thinking further. Even when AI is allowed to make decisions, an organisation cannot simply wash its hands of responsibility. Human oversight, decision records and accountability still matter.
+The refund question raised another important issue: accountability. Allowing an AI agent to make financial decisions does not remove the organisation’s responsibility for oversight and risk management.
 
-**My biggest takeaway:** Identifying a risk is only the beginning. I want to understand how to prevent it, verify that the controls work and make sure someone remains accountable when things go wrong.
+<BR>
 
-<br>
+## What I Will Improve Next Time
 
+Next time, I will identify who owns the AI agent, what it is allowed to do and how its credentials are protected. I will deepen my understanding of API tokens, rotation and revocation, and check how access restrictions are enforced outside the agent.
+
+For automated financial decisions, I will review human oversight, decision records and who is accountable.
+
+My focus will be on moving beyond identifying risks to checking that controls work and responsibilities are clear.
+
+<BR>
 
 ## Explore the Investigation
 
