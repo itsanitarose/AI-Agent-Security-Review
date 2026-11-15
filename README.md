@@ -105,15 +105,23 @@ Tuesday's activity raised concerns about an **ongoing risk of data exfiltration*
 
 <br>
 
-## My Approach
+## Decisions & Recommendations
 
-I reviewed SupportBot's nine permissions against its actual responsibilities and examined the risks created by its identity setup.
+I prioritised the suspicious activity because of the potential exposure of patient information.
 
-I also researched AI agent security guidance from **Microsoft Learn** and **OWASP**, focusing on least privilege, credential security, human oversight and monitoring.
+I'd treat the activity as a suspected compromise and recommend immediate containment. From there, I'd involve the incident-response team to examine the logs, establish what happened and determine whether patient information was exposed.
 
-My proposed approach includes restricting sensitive data access, removing unnecessary financial authority, improving token security and introducing clear ownership and review processes.
+But containing the immediate risk wouldn't fix how SupportBot was set up.
 
-For high impact actions such as refunds, **SupportBot should assist with the request, while an authorised human makes the financial decision.**
+I also recommended removing permissions that weren't needed for its support role, assigning a named owner, securing its API token and introducing regular access reviews.
+
+The financial permissions raised another question: **Should an AI agent be allowed to approve refunds?**
+
+My recommendation was no. SupportBot could assist with a refund request, but an authorised person should make the financial decision.
+
+
+The proposed controls are documented in [05. Security Controls & Target State](Document/05.%20Security%20Controls%20%26%20Target%20State.md).
+
 
 <br>
 
