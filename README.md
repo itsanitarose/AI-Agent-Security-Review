@@ -120,7 +120,7 @@ The financial permissions raised another question: **Should an AI agent be allow
 My recommendation was no. SupportBot could assist with a refund request, but an authorised person should make the financial decision.
 
 
-The proposed controls are documented in [05. Security Controls & Target State](Document/05.%20Security%20Controls%20%26%20Target%20State.md).
+The proposed controls are documented in [security controls & target state](Document/05.%20Security%20Controls%20%26%20Target%20State.md).
 
 
 <br>
