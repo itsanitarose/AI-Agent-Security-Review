@@ -125,7 +125,9 @@ The financial permissions raised another question: **Should an AI agent be allow
 My recommendation was no. SupportBot could assist with a refund request, but an authorised person should make the financial decision.
 
 
-The proposed controls are documented in [security controls & target state](Document/05.%20Security%20Controls%20%26%20Target%20State.md).
+
+The proposed controls are documented in [05. Security Controls & Target State](Document/05.%20Security%20Controls%20%26%20Target%20State.md).
+
 
 
 <br>
@@ -146,16 +148,18 @@ The question about automated refunds pushed my thinking further. Even when AI is
 
 <br>
 
+
 ## Explore the Investigation
 
 | Document | What's Inside |
 |---|---|
-| [01. Source Data](Document/01.%20Source%20Data.md) | SupportBot's identity record, permissions and activity logs |
+| [01. SupportBot Identity, Permissions & Activity](Document/01.%20SupportBot%20Identity%2C%20Permissions%20%26%20Activity.md) | SupportBot's identity record, permissions and activity logs |
 | [02. Permission Review](Document/02.%20Permission%20Review.md) | Review of nine permissions against SupportBot's responsibilities |
 | [03. Identity Governance Findings](Document/03.%20Identity%20Governance%20Findings.md) | Account ownership, API token risks and governance gaps |
 | [04. Suspicious Activity & Incident Response](Document/04.%20Suspicious%20Activity%20%26%20Incident%20Response.md) | Unusual activity, investigation and response recommendations |
 | [05. Security Controls & Target State](Document/05.%20Security%20Controls%20%26%20Target%20State.md) | Proposed access restrictions and security controls |
 | [06. Digging Deeper](Document/06.%20Digging%20Deeper.md) | Further investigation into AI agent identity security |
+
 
 ---
 
