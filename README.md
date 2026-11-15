@@ -21,7 +21,7 @@ The IT Manager writes:
 <tr>
 <td>
 
-**🛡️ ACCESS DECISION**
+**🛡️ At a glance**
 
 SupportBot's unusual activity was my first priority. Its service account accessed 1,900 patient records in four minutes from an unfamiliar IP address. I recommended immediate containment and investigation, followed by removing excessive permissions and securing its identity.
 
