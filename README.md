@@ -13,7 +13,8 @@ The IT Manager writes:
 <BR>
 
 
-**Supporting Information:** [SupportBot Identity, Permissions & Activity](Document/01.%20Source%20Data.md)
+**Supporting Information:** [SupportBot Identity, Permissions & Activity](Document/01.%20SupportBot%20Identity%2C%20Permissions%20%26%20Activity.md)
+
 
 <BR><BR>
 
@@ -59,7 +60,11 @@ There are three things I need to separate:
 - **`svc-supportbot`:** The service account it operates through.
 - **API token:** The credential used to authenticate its requests.
 
-With those three parts clear, I started with SupportBot's [identity record](Document/01.%20Source%20Data.md), then checked its [permissions](Document/02.%20Permission%20Review.md).
+<BR>
+
+With those three parts clear, I started with SupportBot's [identity record](Document/01.%20SupportBot%20Identity%2C%20Permissions%20%26%20Activity.md), then checked its [permissions](Document/02.%20Permission%20Review.md).
+
+<BR>
 
 That raised four questions:
 
