@@ -126,7 +126,7 @@ My recommendation was no. SupportBot could assist with a refund request, but an 
 
 
 
-The proposed controls are documented in [Security Controls & Target State](Document/05.%20Security%20Controls%20%26%20Target%20State.md).
+The proposed controls are documented in [security controls & target state](Document/05.%20Security%20Controls%20%26%20Target%20State.md).
 
 
 
